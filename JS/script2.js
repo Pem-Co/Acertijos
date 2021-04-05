@@ -124,7 +124,7 @@ function move(startPos, endPos) {
 // show the win screen
 function showWin() {
   cancelAnimationFrame(rAF);
- document.write('<body style="background-color: lightgreen;"><link rel="stylesheet" type="text/css" href="CSS/estilo.css"><a  style="color: red; font-family: Comic Sans MS" class="BotonStyle" href="AcerijoN3.html">Siguiente Nivel</a></body>');
+ document.write('<body style="background-color: lightgreen;"><link rel="stylesheet" type="text/css" href="CSS/estilo.css"><a  style="color: red; font-family: Comic Sans MS" class="BotonStyle" href="AcertijoN3.html">Siguiente Nivel</a></body>');
 }
 // game loop
 function loop() {
